@@ -1,0 +1,5 @@
+services:
+  app:
+    image: mohdahmad12870/devops-python-app:1.0
+    ports:
+      - "5000:5000"
